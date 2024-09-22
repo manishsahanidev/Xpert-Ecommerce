@@ -17,6 +17,25 @@ Xpert Ecommerce is a full-stack e-commerce platform built with Java Spring Boot 
 - **Database:** MySQL
 - **Storage:** Amazon S3
 
+## Screenshots
+
+### • USER
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Register Page
+![Register Page](screenshots/register.png)
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Category Page
+![Category Page](screenshots/category.png)
+
+### Account Profile
+![My Account](screenshots/my_account.png)
+
 ## Installation
 
 1. Clone the repository:
